@@ -1,0 +1,45 @@
+[26-Feb-2019 17:51:32 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[26-Feb-2019 17:51:32 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home3/gfincuct/public_html/daffodils/index.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in Unknown on line 0
+[26-Feb-2019 17:51:41 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[26-Feb-2019 17:51:41 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home3/gfincuct/public_html/daffodils/index.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in Unknown on line 0
+[26-Feb-2019 17:53:50 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[26-Feb-2019 17:53:50 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home3/gfincuct/public_html/daffodils/index.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in Unknown on line 0
+[26-Feb-2019 17:53:51 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[26-Feb-2019 17:53:51 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home3/gfincuct/public_html/daffodils/index.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in Unknown on line 0
+[26-Feb-2019 17:53:51 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[26-Feb-2019 17:53:51 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home3/gfincuct/public_html/daffodils/index.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in Unknown on line 0
+[26-Feb-2019 17:56:35 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[26-Feb-2019 17:56:35 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home3/gfincuct/public_html/daffodils/index.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in Unknown on line 0
+[27-Feb-2019 05:15:39 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[27-Feb-2019 05:15:39 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home3/gfincuct/public_html/daffodils/index.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in Unknown on line 0
+[27-Feb-2019 05:21:32 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[27-Feb-2019 05:21:32 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home3/gfincuct/public_html/daffodils/index.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in Unknown on line 0
+[20-Jun-2019 20:18:42 Etc/GMT] PHP Notice:  Undefined variable: \x47\x4c\x4fB\x41\x4cS in /home3/gfincuct/public_html/daffodilsgzp.com/pwn.php(6) : eval()'d code on line 1
+[20-Jun-2019 20:18:42 Etc/GMT] PHP Warning:  file_get_contents(\x68ttp\x73://ima\x67\x65\x2e\x69\x62\x62.c\x6f/\x63t3Zr\x6e/\x69n\x64on\x65s\x69\x61_\x69\x63o\x6e\x2epng): failed to open stream: No such file or directory in /home3/gfincuct/public_html/daffodilsgzp.com/pwn.php(6) : eval()'d code on line 1
+[20-Jun-2019 20:18:42 Etc/GMT] PHP Notice:  Undefined variable: \x47\x4c\x4f\x42\x41\x4c\x53 in /home3/gfincuct/public_html/daffodilsgzp.com/pwn.php(6) : eval()'d code on line 1
+[20-Jun-2019 20:18:42 Etc/GMT] PHP Warning:  gzinflate(): data error in /home3/gfincuct/public_html/daffodilsgzp.com/pwn.php(6) : eval()'d code on line 1
+[20-Jun-2019 20:18:46 Etc/GMT] PHP Notice:  Undefined variable: \x47\x4c\x4fB\x41\x4cS in /home3/gfincuct/public_html/daffodilsgzp.com/pwn.php(6) : eval()'d code on line 1
+[20-Jun-2019 20:18:46 Etc/GMT] PHP Warning:  file_get_contents(\x68ttp\x73://ima\x67\x65\x2e\x69\x62\x62.c\x6f/\x63t3Zr\x6e/\x69n\x64on\x65s\x69\x61_\x69\x63o\x6e\x2epng): failed to open stream: No such file or directory in /home3/gfincuct/public_html/daffodilsgzp.com/pwn.php(6) : eval()'d code on line 1
+[20-Jun-2019 20:18:46 Etc/GMT] PHP Notice:  Undefined variable: \x47\x4c\x4f\x42\x41\x4c\x53 in /home3/gfincuct/public_html/daffodilsgzp.com/pwn.php(6) : eval()'d code on line 1
+[20-Jun-2019 20:18:46 Etc/GMT] PHP Warning:  gzinflate(): data error in /home3/gfincuct/public_html/daffodilsgzp.com/pwn.php(6) : eval()'d code on line 1
+[20-Jun-2019 23:04:13 Etc/GMT] PHP Notice:  Undefined index: coki in /home3/gfincuct/public_html/daffodilsgzp.com/indesx.php on line 9
+[20-Jun-2019 23:04:13 Etc/GMT] PHP Notice:  Undefined index: coki in /home3/gfincuct/public_html/daffodilsgzp.com/indesx.php on line 10
+[20-Jun-2019 23:22:08 Etc/GMT] PHP Notice:  Undefined index: coki in /home3/gfincuct/public_html/daffodilsgzp.com/indesx.php on line 9
+[20-Jun-2019 23:22:08 Etc/GMT] PHP Notice:  Undefined index: coki in /home3/gfincuct/public_html/daffodilsgzp.com/indesx.php on line 10
+[21-Jun-2019 03:27:58 Etc/GMT] PHP Notice:  Undefined variable: \x47\x4c\x4fB\x41\x4cS in /home3/gfincuct/public_html/daffodilsgzp.com/login.php(6) : eval()'d code on line 1
+[21-Jun-2019 03:27:58 Etc/GMT] PHP Warning:  file_get_contents(\x68ttp\x73://ima\x67\x65\x2e\x69\x62\x62.c\x6f/\x63t3Zr\x6e/\x69n\x64on\x65s\x69\x61_\x69\x63o\x6e\x2epng): failed to open stream: No such file or directory in /home3/gfincuct/public_html/daffodilsgzp.com/login.php(6) : eval()'d code on line 1
+[21-Jun-2019 03:27:58 Etc/GMT] PHP Notice:  Undefined variable: \x47\x4c\x4f\x42\x41\x4c\x53 in /home3/gfincuct/public_html/daffodilsgzp.com/login.php(6) : eval()'d code on line 1
+[21-Jun-2019 03:27:58 Etc/GMT] PHP Warning:  gzinflate(): data error in /home3/gfincuct/public_html/daffodilsgzp.com/login.php(6) : eval()'d code on line 1
+[28-Oct-2019 14:06:44 Etc/GMT] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nikteund/public_html/daffodilsgzp.com/index.php on line 32
+[28-Oct-2019 14:06:44 Etc/GMT] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/nikteund/public_html/daffodilsgzp.com/index.php on line 32
+[28-Oct-2019 14:06:44 Etc/GMT] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/nikteund/public_html/daffodilsgzp.com/index.php on line 32
+[28-Oct-2019 14:06:44 Etc/GMT] PHP Warning:  include(banner.php): failed to open stream: No such file or directory in /home/nikteund/public_html/daffodilsgzp.com/index.php on line 35
+[28-Oct-2019 14:06:44 Etc/GMT] PHP Warning:  include(banner.php): failed to open stream: No such file or directory in /home/nikteund/public_html/daffodilsgzp.com/index.php on line 35
+[28-Oct-2019 14:06:44 Etc/GMT] PHP Warning:  include(): Failed opening 'banner.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/nikteund/public_html/daffodilsgzp.com/index.php on line 35
+[28-Oct-2019 14:06:44 Etc/GMT] PHP Warning:  include(side_menu.php): failed to open stream: No such file or directory in /home/nikteund/public_html/daffodilsgzp.com/index.php on line 57
+[28-Oct-2019 14:06:44 Etc/GMT] PHP Warning:  include(side_menu.php): failed to open stream: No such file or directory in /home/nikteund/public_html/daffodilsgzp.com/index.php on line 57
+[28-Oct-2019 14:06:44 Etc/GMT] PHP Warning:  include(): Failed opening 'side_menu.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/nikteund/public_html/daffodilsgzp.com/index.php on line 57
+[28-Oct-2019 14:06:44 Etc/GMT] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/nikteund/public_html/daffodilsgzp.com/index.php on line 67
+[28-Oct-2019 14:06:44 Etc/GMT] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/nikteund/public_html/daffodilsgzp.com/index.php on line 67
+[28-Oct-2019 14:06:44 Etc/GMT] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/nikteund/public_html/daffodilsgzp.com/index.php on line 67
+[17-Nov-2019 16:21:59 Etc/GMT] PHP Warning:  preg_match(): No ending delimiter '^' found in /home/nikteund/public_html/daffodilsgzp.com/index.php(9) : eval()'d code on line 319

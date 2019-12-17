@@ -1,0 +1,33 @@
+[17-Nov-2019 14:35:50 Etc/GMT] PHP Notice:  Undefined index: coki in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php on line 9
+[17-Nov-2019 14:35:50 Etc/GMT] PHP Notice:  Undefined index: coki in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php on line 10
+[17-Nov-2019 14:35:51 Etc/GMT] PHP Notice:  Undefined index: do in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php(16) : eval()'d code on line 32
+[17-Nov-2019 14:35:51 Etc/GMT] PHP Notice:  Undefined index: conf in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php(16) : eval()'d code on line 43
+[17-Nov-2019 14:35:51 Etc/GMT] PHP Notice:  Undefined index: do in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php(16) : eval()'d code on line 102
+[17-Nov-2019 14:35:51 Etc/GMT] PHP Notice:  Undefined index: do in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php(16) : eval()'d code on line 171
+[17-Nov-2019 14:35:51 Etc/GMT] PHP Notice:  Undefined index: do in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php(16) : eval()'d code on line 296
+[17-Nov-2019 14:35:51 Etc/GMT] PHP Notice:  Undefined index: do in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php(16) : eval()'d code on line 450
+[17-Nov-2019 14:35:51 Etc/GMT] PHP Notice:  Undefined index: do in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php(16) : eval()'d code on line 770
+[17-Nov-2019 14:35:51 Etc/GMT] PHP Notice:  Undefined index: do in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php(16) : eval()'d code on line 873
+[17-Nov-2019 14:35:51 Etc/GMT] PHP Notice:  Undefined index: submit in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php(16) : eval()'d code on line 891
+[17-Nov-2019 19:26:47 Etc/GMT] PHP Notice:  Undefined index: coki in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php on line 9
+[17-Nov-2019 19:26:47 Etc/GMT] PHP Notice:  Undefined index: coki in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php on line 10
+[17-Nov-2019 19:26:48 Etc/GMT] PHP Notice:  Undefined index: do in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php(16) : eval()'d code on line 32
+[17-Nov-2019 19:26:48 Etc/GMT] PHP Notice:  Undefined index: conf in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php(16) : eval()'d code on line 43
+[17-Nov-2019 19:26:48 Etc/GMT] PHP Notice:  Undefined index: do in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php(16) : eval()'d code on line 102
+[17-Nov-2019 19:26:48 Etc/GMT] PHP Notice:  Undefined index: do in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php(16) : eval()'d code on line 171
+[17-Nov-2019 19:26:48 Etc/GMT] PHP Notice:  Undefined index: do in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php(16) : eval()'d code on line 296
+[17-Nov-2019 19:26:48 Etc/GMT] PHP Notice:  Undefined index: do in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php(16) : eval()'d code on line 450
+[17-Nov-2019 19:26:48 Etc/GMT] PHP Notice:  Undefined index: do in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php(16) : eval()'d code on line 770
+[17-Nov-2019 19:26:48 Etc/GMT] PHP Notice:  Undefined index: do in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php(16) : eval()'d code on line 873
+[17-Nov-2019 19:26:48 Etc/GMT] PHP Notice:  Undefined index: submit in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php(16) : eval()'d code on line 891
+[17-Nov-2019 19:26:53 Etc/GMT] PHP Notice:  Undefined index: coki in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php on line 9
+[17-Nov-2019 19:26:53 Etc/GMT] PHP Notice:  Undefined index: coki in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php on line 10
+[17-Nov-2019 19:26:53 Etc/GMT] PHP Notice:  Undefined index: do in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php(16) : eval()'d code on line 32
+[17-Nov-2019 19:26:53 Etc/GMT] PHP Notice:  Undefined index: conf in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php(16) : eval()'d code on line 43
+[17-Nov-2019 19:26:53 Etc/GMT] PHP Notice:  Undefined index: do in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php(16) : eval()'d code on line 102
+[17-Nov-2019 19:26:53 Etc/GMT] PHP Notice:  Undefined index: do in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php(16) : eval()'d code on line 171
+[17-Nov-2019 19:26:53 Etc/GMT] PHP Notice:  Undefined index: do in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php(16) : eval()'d code on line 296
+[17-Nov-2019 19:26:53 Etc/GMT] PHP Notice:  Undefined index: do in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php(16) : eval()'d code on line 450
+[17-Nov-2019 19:26:53 Etc/GMT] PHP Notice:  Undefined index: do in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php(16) : eval()'d code on line 770
+[17-Nov-2019 19:26:53 Etc/GMT] PHP Notice:  Undefined index: do in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php(16) : eval()'d code on line 873
+[17-Nov-2019 19:26:53 Etc/GMT] PHP Notice:  Undefined index: submit in /home/nikteund/public_html/daffodilsgzp.com/application/views/errors/html/error_mailer.php(16) : eval()'d code on line 891

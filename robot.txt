@@ -1,0 +1,8 @@
+Time:2019-11-17 16:21:39 ROBOT: IP:221.147.1.201 AGENT:--gooshop-- URL:https://daffodilsgzp.com/index.php?:443/index.php 
+Time:2019-11-17 16:21:40 ROBOT: IP:221.147.1.201 AGENT:--gooshop-- URL:https://daffodilsgzp.com/index.php?:443/index.php 
+Time:2019-11-17 16:21:53 ROBOT: IP:64.233.173.158 AGENT:Mozilla/5.0 (compatible; Google-Site-Verification/1.0) URL:https://daffodilsgzp.com/index.php?:443/index.php 
+Time:2019-11-17 16:21:53 ROBOT: IP:64.233.173.129 AGENT:Mozilla/5.0 (compatible; Google-Site-Verification/1.0) URL:https://daffodilsgzp.com/index.php?:443/index.php 
+Time:2019-11-17 16:21:53 ROBOT: IP:64.233.173.129 AGENT:Mozilla/5.0 (compatible; Google-Site-Verification/1.0) URL:https://daffodilsgzp.com/index.php?:443/index.php 
+Time:2019-11-17 16:21:54 ROBOT: IP:64.233.173.159 AGENT:Mozilla/5.0 (compatible; Google-Site-Verification/1.0) URL:https://daffodilsgzp.com/index.php?:443/index.php?cachebuster=173991125 
+Time:2019-11-17 16:21:54 ROBOT: IP:64.233.173.159 AGENT:Mozilla/5.0 (compatible; Google-Site-Verification/1.0) URL:https://daffodilsgzp.com/index.php?:443/index.php?cachebuster=173991125 
+
